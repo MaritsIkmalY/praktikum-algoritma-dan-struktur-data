@@ -1,0 +1,1 @@
+&& array[j - interval] < temp

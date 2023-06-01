@@ -1,0 +1,2 @@
+bentuk();
+    fflush(stdin);
